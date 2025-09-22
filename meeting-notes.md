@@ -1,3 +1,12 @@
+## 2025.Sep.22 > Attendees: Raminder, Samiksha, Richa
+###Meeting Minutes:
+
+Samiksha : Data/News Fetching Agent + Sentiment Agent
+
+Richa : Technical Agent + Risk Agent
+
+Raminder : Evaluator-Optimizer Agent + Portfolio Agent + Coordinator Agent
+
 ## 2025.Sep.13 > Attendees: Raminder, Richa
 
 ###Meeting Minutes:
